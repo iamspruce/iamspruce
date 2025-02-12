@@ -11,7 +11,7 @@
 
 ## 🧐 About
 
-- 👨‍💻 My blog: https://iamspruce.dev
+- 👨‍💻 My blog: https://spruceemmanuel.link
 - 📫 How to reach me: spruceemmanuel@gmail.com)
 - 🌱 About: 
 
