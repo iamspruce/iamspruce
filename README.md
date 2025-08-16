@@ -12,7 +12,7 @@
 ## 🧐 About
 
 - 👨‍💻 My blog: https://spruceemmanuel.link
-- 📫 How to reach me: spruceemmanuel@gmail.com)
+- 📫 How to reach me: hello@spruceemmanuel.com)
 - 🌱 About: 
 
     <div>
