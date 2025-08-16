@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-𝗜'𝗺 [Spruce](https://iamspruce.dev) web developer and open source lover.
+𝗜'𝗺 [Spruce](https://spruceemmanuel.com) web developer and open source lover.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/sprucekhalifa)](https://twitter.com/sprucekhalifa)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spruceemmanuel@gmail.com)](mailto:spruceemmanuel@gmail.com)
@@ -11,7 +11,7 @@
 
 ## 🧐 About
 
-- 👨‍💻 My blog: https://spruceemmanuel.link
+- 👨‍💻 My blog: https://spruceemmanuel.com
 - 📫 How to reach me: hello@spruceemmanuel.com)
 - 🌱 About: 
 
