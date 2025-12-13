@@ -1,6 +1,6 @@
 # Hey, I'm Spruce
 
-I build things for the web and write about them. Nearly a decade in, still figuring it out.
+I build things for the web and write about them. A decade in, still figuring it out.
 
 ## Find me
 
